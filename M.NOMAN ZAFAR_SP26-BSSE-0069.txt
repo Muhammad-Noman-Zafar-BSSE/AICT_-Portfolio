@@ -1,0 +1,9 @@
+Welcome to my academic profile repository.
+
+I am Noman, a Software Engineering student at Mohammad Ali Jinnah University (MAJU), studying in the Department of Computer Science, Faculty of Computing. My student ID is SP26BSSE0069.
+
+Currently, I am enrolled in courses including AICT Theory, AICT Lab, Computer Programming, Computer Programming Lab, Calculus and Analytical Geometry, English and Islamic Studies. These courses are helping me build a strong foundation in programming, analytical thinking, communication and ethical values.
+
+Through my academic journey, I am developing skills in basic programming, Microsoft Office, problem solving, mathematics, English communication, Quranic studies, and Ahadith. I am passionate about learning new technologies and improving my technical abilities.
+
+My goal is to become a professional Software Engineer by working hard, gaining practical knowledge and continuously improving my skills in the field of technology.
